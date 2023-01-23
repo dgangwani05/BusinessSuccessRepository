@@ -1,1 +1,3 @@
 # BusinessSuccessRepository
+
+A business success prediction is based on the company details provided in a csv file. This projects benefits researchers, entrepreneurs and investors to think differently about the business. Previous researches focus on predicting success or failure based on the given information. This project aims to highlight three different angles (Investments, Business and Market) of business which helps to provide key aspects of success and failure of a company. Based on the these angles new features are created and compared with the available features to compare and analyze the research. 
